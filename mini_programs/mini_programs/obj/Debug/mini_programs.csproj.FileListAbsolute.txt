@@ -1,0 +1,10 @@
+D:\STEP Academy\Programming\C#\education\GeekBrains\mini_programs\mini_programs\bin\Debug\mini_programs.exe.config
+D:\STEP Academy\Programming\C#\education\GeekBrains\mini_programs\mini_programs\bin\Debug\mini_programs.exe
+D:\STEP Academy\Programming\C#\education\GeekBrains\mini_programs\mini_programs\bin\Debug\mini_programs.pdb
+D:\STEP Academy\Programming\C#\education\GeekBrains\mini_programs\mini_programs\obj\Debug\mini_programs.csproj.AssemblyReference.cache
+D:\STEP Academy\Programming\C#\education\GeekBrains\mini_programs\mini_programs\obj\Debug\mini_programs.Properties.Resources.resources
+D:\STEP Academy\Programming\C#\education\GeekBrains\mini_programs\mini_programs\obj\Debug\mini_programs.csproj.GenerateResource.cache
+D:\STEP Academy\Programming\C#\education\GeekBrains\mini_programs\mini_programs\obj\Debug\mini_programs.csproj.CoreCompileInputs.cache
+D:\STEP Academy\Programming\C#\education\GeekBrains\mini_programs\mini_programs\obj\Debug\mini_programs.exe
+D:\STEP Academy\Programming\C#\education\GeekBrains\mini_programs\mini_programs\obj\Debug\mini_programs.pdb
+D:\STEP Academy\Programming\C#\education\GeekBrains\mini_programs\mini_programs\obj\Debug\mini_programs.MainForm.resources
